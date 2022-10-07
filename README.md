@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Siimple-c
 - 👀 I’m interested in TAILWIND CSS, JAVASCRIPT. REACT
 - 🌱 I’m currently learning CSS & JAVASCRIPT
-- 💞️ I’m looking to collaborate on projects that will help hone my skills so I can get on my feet and do cool stuff with computers.
-- 📫 How to reach me on twitter:  @_kellygochi
+- 💞️ I’m looking to collaborate on projects that will help upgrade my skills so I can do cool stuff with computers.
+- 📫 How to reach me on twitter:  @knowcode_
 
 <!---
 Siimple-c/Siimple-c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
