@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Siimple-c
+- 👋 Hi, Chuka here
 - 👀 I’m interested in SASS, CSS, JAVASCRIPT. REACT
 - 🌱 I’m currently learning CSS & JAVASCRIPT
 - 💞️ I’m looking to collaborate on projects that will help upgrade my skills so I can do cool stuff with computers.
