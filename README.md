@@ -1,5 +1,5 @@
 - 👋 Hi, Chuka here
-- 👀 I’m interested in SASS, CSS, JAVASCRIPT. REACT
+- 👀 I’m interested in SASS, JAVASCRIPT. REACT
 - Code and coffee 
 - 📫 How to reach me on twitter:  @knowcode_
 
